@@ -6,7 +6,7 @@ Primer sitio web desarrollado con HTML para el bootcamp de technolochicas PRO, e
 
 ### Link del proyecto
 
-[Proyecto desplegado](https://miprimerpaginaweb0908.netlify.app/)
+[Proyecto desplegado](https://deybustosdel.github.io/primer-pagina-web/)
 
 ### Capturas del proyecto
 
